@@ -1,16 +1,5 @@
-# elearning
+# E Learning Application
 
-A new Flutter project.
+A Flutter UI and GetX Test.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/MdAshrafUllah/practice_ui_and_getx/assets/96839511/3daa9412-0ac2-46ec-8fbd-c80789dc399f
