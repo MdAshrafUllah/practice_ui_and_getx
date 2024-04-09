@@ -14,7 +14,7 @@ class RoundBorder extends StatelessWidget {
         height: double.infinity,
         width: double.infinity,
         decoration: const BoxDecoration(
-            color: Colors.white,
+            color: AppColor.whiteColor,
             borderRadius: BorderRadius.only(
                 topLeft: Radius.circular(20), topRight: Radius.circular(20))),
         child: child,

@@ -1,16 +1,16 @@
 import 'package:elearning/data/model/course_details_model.dart';
-import 'package:elearning/view/widget/curriculum_list_builder.dart';
-import 'package:elearning/view/widget/thumbnail.dart';
+import 'package:elearning/view/widget/courses%20details%20widget/curriculum_list_builder.dart';
+import 'package:elearning/view/widget/courses%20details%20widget/thumbnail.dart';
 import 'package:flutter/material.dart';
 import 'package:elearning/view/utils/assets_path.dart';
 import 'package:elearning/view/widget/button.dart';
-import 'package:elearning/view/widget/course_includes.dart';
-import 'package:elearning/view/widget/date_format.dart';
-import 'package:elearning/view/widget/description_section.dart';
-import 'package:elearning/view/widget/rating.dart';
-import 'package:elearning/view/widget/requrement_list.dart';
+import 'package:elearning/view/widget/courses%20details%20widget/course_includes.dart';
+import 'package:elearning/view/widget/courses%20details%20widget/date_format.dart';
+import 'package:elearning/view/widget/courses%20details%20widget/description_section.dart';
+import 'package:elearning/view/widget/courses%20details%20widget/rating.dart';
+import 'package:elearning/view/widget/courses%20details%20widget/requrement_list.dart';
 import 'package:elearning/view/widget/text_style.dart';
-import 'package:elearning/view/widget/what_learn_list_builder.dart';
+import 'package:elearning/view/widget/courses%20details%20widget/what_learn_list_builder.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 Widget buildCourseDetails(CourseDetails courseDetails) {
