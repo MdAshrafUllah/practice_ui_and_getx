@@ -2,4 +2,14 @@
 
 A Flutter UI and GetX Test.
 
-https://github.com/MdAshrafUllah/practice_ui_and_getx/assets/96839511/3daa9412-0ac2-46ec-8fbd-c80789dc399f
+<table style="width:100%">
+  <tr>
+    <th>Output Screen</th>
+  </tr>
+  <tr>
+    <td><img src="output/output.png" width="200" height="400"></td>
+  </tr>
+</table>
+
+[watch the video](output_video.mp4)
+
